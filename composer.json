@@ -1,0 +1,21 @@
+{
+    "name": "socialiteproviders/weixin-zhang",
+    "description": "weixin third login",
+    "type": "libarary",
+    "require": {
+	"php": "^5.6 || ^7.0",
+        "socialiteproviders/manager": "~2.0 || ~3.0"
+    },
+    "authors": [
+        {
+            "name": "zhangzili",
+            "email": "zhangzili@hoge.cn"
+        }
+    ],
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
